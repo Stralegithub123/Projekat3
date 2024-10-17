@@ -1,3 +1,6 @@
 Ovde ide tekst koji se upisuje u ovaj nov dokument
 Sada cemo taj dokument da pushujemo na remote repository
 On se nalazi na git hub-u
+
+Ovde sada treba da dodam neki novi kod koji ce biti vezan samo
+za novu granu koju sam napravio i na kojoj trenutno radim!
